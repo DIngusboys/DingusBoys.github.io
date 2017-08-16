@@ -131,10 +131,10 @@ var _bg_video_youtube_loop =                      true;
 // 5 = snow
 // 6 = particles
 //
-var _bg_effect =                                  2;
+var _bg_effect =                                  3;
 
 // true, false - enable parallax effect on above aniamtion, its force disable on mobile, and not work with outdated browser
-var _bg_animation_parallax =                      true;
+var _bg_animation_parallax =                      false;
 
 // number - bg animation parallax depth
 var _bg_animation_parallax_depth =                0.30;
