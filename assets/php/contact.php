@@ -7,13 +7,13 @@
 //
 
   // your email address
-  $EMAIL   = 'email@example.com';
+  $EMAIL   = 'DingusBoys@yahoo.com';
 
   // your name
-  $NAME    = 'Your Name';
+  $NAME    = 'DingusBoys';
 
   // subject line
-  $SUBJECT = 'Email Subject';
+  $SUBJECT = 'Support Team';
 
   // email content
   $HTML = '

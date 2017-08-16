@@ -134,7 +134,7 @@ var _bg_video_youtube_loop =                      true;
 var _bg_effect =                                  3;
 
 // true, false - enable parallax effect on above aniamtion, its force disable on mobile, and not work with outdated browser
-var _bg_animation_parallax =                      false;
+var _bg_animation_parallax =                      true;
 
 // number - bg animation parallax depth
 var _bg_animation_parallax_depth =                0.30;
@@ -158,10 +158,10 @@ var _parallax_star_opacity =                      1;
 // ============================================ //
 
 // 0.1 to 1 - star opacity
-var _star_opacity =                               0.84;
+var _star_opacity =                               1;
 
 // none, top, top-right, right, bottom-right, bottom, bottom-left, left, top-left - star direction
-var _star_direction =                             'top-right';
+var _star_direction =                             'top-left';
 
 // ============================================ //
 // Bubble setting                               //
